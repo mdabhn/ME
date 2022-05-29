@@ -1,0 +1,16 @@
+PORT= 8888
+
+## Firebase Configs --START-- ##
+
+APIKEY=
+AUTHDOMAIN=
+PROJECTID=
+STORAGEBUCKET=
+MESSAGINGSENDERID=
+APPID=
+
+## Firebase Configs --END-- ##
+
+## Encryptions ##
+
+ENCRYPTSECRET=
