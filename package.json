@@ -1,0 +1,21 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev:client": "cd client && npm run start",
+    "dev:server": "cd server && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdabhn/ME.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdabhn/ME/issues"
+  },
+  "homepage": "https://github.com/mdabhn/ME#readme"
+}
